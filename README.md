@@ -2,6 +2,8 @@
 
 https://www.kaggle.com/code/emirkanhos/proje
 
+colabde çalıştırdım bütün satırları fakat kaggleda çok uzun sürdü çalıştırmam son satırları çalıştıramadım tekrar denemeye çalışıyorum 12den sonrasına yetişebilir ancak
+
 # Makine Öğrenmesi ile Araç Satış Verileri
 
 # Projenin Amacı
