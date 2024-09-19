@@ -76,7 +76,18 @@ Bu projede kullanılan algoritmalar:
 Bu projede çeşitli makine öğrenmesi algoritmalarını deneyerek araç satış verilerinden en doğru tahmin sonucunu bulmayı amaçladım. Algoritmalar arasında Random Forest, Linear Regresyon, ve Decision Tree gibi modellerini test ettim. Her modelin performanslarını karşılaştırdıktan sonra en iyi sonucu veren Random forest modelini seçtim. Daha da iyileştirmek için hiperparametre optimizasyonu yaptım. Sonuç olarak hiperparametre ve model değerlendirmesi yaparak doğruluklarını ölçtüm.
 
 
-#Kaynak
+# Sonuç
+
+Bu projede araç satış fiyatlarını tahmin etmek için makine öğrenmesi kullandım. 
+
+Kilometre satış fiyatı ve kümeleme arasındaki ilişkiyi görselleştirerek verideki yapıları daha iyi anladım.
+
+Farklı modellerin performansını karşılaştırdım ve Random Forest modelinin en iyi sonuçları verdiğini gözlemledim. Hiperparametre optimizasyonu ile bu modelin performansını daha da iyileştirmeye çalıştım. Daha geniş bir zaman olsaydı büyük hiperparametre aralıklarını deneyerek daha da iyi sonuçlar elde edebilir miydim diye merak ediyorum.
+
+Bu proje araç fiyatlandırması konusunda daha iyi kararlar almak için veri analizi ve makine öğrenmesinin gücünü göstermektedir.
+
+
+# Kaynak 
 
 https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
 
