@@ -1,3 +1,7 @@
+# Kaggle
+
+https://www.kaggle.com/code/emirkanhos/proje
+
 # Makine Öğrenmesi ile Araç Satış Verileri
 
 # Projenin Amacı
